@@ -1,0 +1,11 @@
+{
+  "name": "geo-admin-mock",
+  "description": "serves mock data for geo-admin front-end",
+  "version": "0.0.1",
+  "author": "RIAstar",
+  "dependencies": {
+    "chalk": "~0.5.1",
+    "lodash-node": "~2.4.1",
+    "restify": "~2.8.3"
+  }
+}
