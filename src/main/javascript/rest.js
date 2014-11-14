@@ -28,22 +28,24 @@ server.get('rest/services/height', mainService.height);
 server.get('rest/services/profile', mainService.profile);
 
 /** @see MapService.metaData */
-server.get('rest/services/all/MapServer', mapService.metaData);
+server.get('rest/services/ech/MapServer', mapService.metaData);
+/** @see MapService.config */
+server.get('rest/services/all/MapServer/layersConfig', mapService.config);
 /** @see MapService.attribute */
-server.get('rest/services/all/MapServer/:layerBodyId', mapService.attribute);
+server.get('rest/services/ech/MapServer/:layerBodyId', mapService.attribute);
 /** @see MapService.legend */
-server.get('rest/services/all/MapServer/:layerBodyId/legend', mapService.legend);
+server.get('rest/services/ech/MapServer/:layerBodyId/legend', mapService.legend);
 /** @see MapService.identify */
-server.get('rest/services/all/MapServer/identify', mapService.identify);
+server.get('rest/services/ech/MapServer/identify', mapService.identify);
 /** @see MapService.find */
-server.get('rest/services/all/MapServer/find', mapService.find);
+server.get('rest/services/ech/MapServer/find', mapService.find);
 /** @see MapService.feature */
-server.get('rest/services/all/MapServer/:layerBodyId/:featureIds', mapService.feature);
+server.get('rest/services/ech/MapServer/:layerBodyId/:featureIds', mapService.feature);
 /** @see MapService.popup */
-server.get('rest/services/all/MapServer/:layerBodyId/:featureId/htmlPopup', mapService.popup);
+server.get('rest/services/ech/MapServer/:layerBodyId/:featureId/htmlPopup', mapService.popup);
 
 /** @see SearchService.search */
-server.get('rest/services/all/SearchServer', searchService.search);
+server.get('rest/services/ech/SearchServer', searchService.search);
 
 /** @see CatalogService.all */
 server.get('rest/services/ech/CatalogServer', catalogService.all);

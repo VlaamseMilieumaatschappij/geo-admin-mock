@@ -4,7 +4,8 @@ var _ = require('lodash-node'),
 
 module.exports = {
     metaData: metaData,
-    attribute: _.curry(loadJSON)('layersConfig.json'),
+    config: _.curry(loadJSON)('layersConfig.json'),
+    attribute: attribute,
     legend: legend,
     identify: identify,
     find: find,
@@ -14,6 +15,11 @@ module.exports = {
 
 function metaData(req, res, next) {
     log('GET metaData', 404, req.url);
+    return next();
+}
+
+function attribute(req, res, next) {
+    log('GET attribute', 404, req.url);
     return next();
 }
 
