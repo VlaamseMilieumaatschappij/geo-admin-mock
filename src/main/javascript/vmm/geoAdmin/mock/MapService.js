@@ -4,7 +4,7 @@ var _ = require('lodash-node'),
 
 module.exports = {
     metaData: metaData,
-    config: _.curry(loadJSON)('layersConfig.json'),
+    config: _.partial(loadJSON, 'layersConfig.json'),
     attribute: attribute,
     legend: legend,
     identify: identify,

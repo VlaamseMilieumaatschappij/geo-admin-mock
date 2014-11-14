@@ -5,7 +5,7 @@ var _ = require('lodash-node'),
 module.exports = {
     height: height,
     profile: profile,
-    info: _.curry(loadJSON)('info.json')
+    info: _.partial(loadJSON, 'info.json')
 };
 
 function height(req, res, next) {

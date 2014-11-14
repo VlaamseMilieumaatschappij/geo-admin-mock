@@ -1,0 +1,854 @@
+{
+  "results": [
+    {
+      "id": 109944,
+      "weight": 7,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "032030102031232222300",
+        "lon": 8.711722373962402,
+        "detail": "testa ti",
+        "rank": 5,
+        "geom_st_box2d": "BOX(698263.6875 117423.296875,698263.75 117423.3046875)",
+        "lat": 46.20109558105469,
+        "num": 1,
+        "y": 698263.6875,
+        "x": 117423.296875,
+        "label": "<b>Testa</b> (TI) - Cavigliano"
+      }
+    },
+    {
+      "id": 196312,
+      "weight": 7,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "023210311010232121313",
+        "lon": 7.228338718414307,
+        "detail": "testa grisa vs",
+        "rank": 5,
+        "geom_st_box2d": "BOX(583673.9375 82285.2109375,583674 82285.21875)",
+        "lat": 45.89198303222656,
+        "num": 1,
+        "y": 583674.0,
+        "x": 82285.21875,
+        "label": "<b>Testa Grisa</b> (VS) - "
+      }
+    },
+    {
+      "id": 58057,
+      "weight": 7,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "032030102003213123011",
+        "lon": 8.706326484680176,
+        "detail": "testin ti",
+        "rank": 5,
+        "geom_st_box2d": "BOX(697842.0625 117733.09375,697842.125 117733.1015625)",
+        "lat": 46.20394515991211,
+        "num": 1,
+        "y": 697842.125,
+        "x": 117733.1015625,
+        "label": "<b>Testin</b> (TI) - Isorno"
+      }
+    },
+    {
+      "id": 23944,
+      "weight": 7,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "031212332123222030130",
+        "lon": 10.349905967712402,
+        "detail": "testun gr",
+        "rank": 5,
+        "geom_st_box2d": "BOX(822432.25 180958.09375,822432.3125 180958.109375)",
+        "lat": 46.742671966552734,
+        "num": 1,
+        "y": 822432.3125,
+        "x": 180958.09375,
+        "label": "<b>Testun</b> (GR) - Scuol"
+      }
+    },
+    {
+      "id": 224198,
+      "weight": 7,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "030123330011213130331",
+        "lon": 9.374531745910645,
+        "detail": "testels sg",
+        "rank": 5,
+        "geom_st_box2d": "BOX(747066.5625 213593.03125,747066.625 213593.046875)",
+        "lat": 47.057037353515625,
+        "num": 1,
+        "y": 747066.625,
+        "x": 213593.046875,
+        "label": "<b>Testels</b> (SG) - Mels"
+      }
+    },
+    {
+      "id": 66700,
+      "weight": 7,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "023210311010232121300",
+        "lon": 7.228325843811035,
+        "detail": "testa grisa vs",
+        "rank": 5,
+        "geom_st_box2d": "BOX(583672.9375 82285.390625,583673 82285.3984375)",
+        "lat": 45.89198303222656,
+        "num": 1,
+        "y": 583672.9375,
+        "x": 82285.390625,
+        "label": "<b>Testa Grisa</b> (VS) - Bourg-Saint-Pierre"
+      }
+    },
+    {
+      "id": 141155,
+      "weight": 7,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "032030203121320001022",
+        "lon": 8.644229888916016,
+        "detail": "teste ti",
+        "rank": 5,
+        "geom_st_box2d": "BOX(693167.75 109978.734375,693167.8125 109978.7421875)",
+        "lat": 46.13486099243164,
+        "num": 1,
+        "y": 693167.75,
+        "x": 109978.734375,
+        "label": "<b>Teste</b> (TI) - Palagnedra"
+      }
+    },
+    {
+      "id": 120260,
+      "weight": 7,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "023123222033130312201",
+        "lon": 7.6437907218933105,
+        "detail": "testa del leone vs",
+        "rank": 5,
+        "geom_st_box2d": "BOX(615901.5625 91092.8984375,615901.625 91092.90625)",
+        "lat": 45.971221923828125,
+        "num": 1,
+        "y": 615901.625,
+        "x": 91092.8984375,
+        "label": "<b>Testa del Leone</b> (VS) - Zermatt"
+      }
+    },
+    {
+      "id": 92928,
+      "weight": 7,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "023301013200133213302",
+        "lon": 7.707360744476318,
+        "detail": "testa grigia vs",
+        "rank": 5,
+        "geom_st_box2d": "BOX(620843 87079,620843 87079)",
+        "lat": 45.93498229980469,
+        "num": 1,
+        "y": 620843.0,
+        "x": 87079.0,
+        "label": "<b>Testa Grigia</b> (VS) - Zermatt"
+      }
+    },
+    {
+      "id": 208451,
+      "weight": 7,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "030123300201300310130",
+        "lon": 9.320295333862305,
+        "detail": "testa sg",
+        "rank": 5,
+        "geom_st_box2d": "BOX(742876.6875 216429.421875,742876.75 216429.4375)",
+        "lat": 47.083457946777344,
+        "num": 1,
+        "y": 742876.75,
+        "x": 216429.421875,
+        "label": "<b>Testa</b> (SG) - Flums"
+      }
+    },
+    {
+      "id": 105842,
+      "weight": 7,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "030123300201301033012",
+        "lon": 9.320512771606445,
+        "detail": "testa sg",
+        "rank": 5,
+        "geom_st_box2d": "BOX(742893.0625 216433.796875,742893.125 216433.8125)",
+        "lat": 47.08349609375,
+        "num": 1,
+        "y": 742893.125,
+        "x": 216433.796875,
+        "label": "<b>Testa</b> (SG) - Flums"
+      }
+    },
+    {
+      "id": 131479,
+      "weight": 7,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "032030202210233122330",
+        "lon": 8.610575675964355,
+        "detail": "testa di misello ti",
+        "rank": 5,
+        "geom_st_box2d": "BOX(690574.1875 109468.546875,690574.25 109468.5546875)",
+        "lat": 46.1306266784668,
+        "num": 1,
+        "y": 690574.1875,
+        "x": 109468.5546875,
+        "label": "<b>Testa di Misello</b> (TI) - Palagnedra"
+      }
+    },
+    {
+      "id": 56237,
+      "weight": 7,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "032030000330113320103",
+        "lon": 8.62598991394043,
+        "detail": "teste ti",
+        "rank": 5,
+        "geom_st_box2d": "BOX(691628.375 118541.796875,691628.4375 118541.8046875)",
+        "lat": 46.212093353271484,
+        "num": 1,
+        "y": 691628.375,
+        "x": 118541.796875,
+        "label": "<b>Teste</b> (TI) - Onsernone"
+      }
+    },
+    {
+      "id": 38708,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "021211312303303113012",
+        "lon": 7.407046318054199,
+        "detail": "haltestelle ausserholligen be",
+        "rank": 5,
+        "geom_st_box2d": "BOX(597595.1875 199302.453125,597595.25 199302.46875)",
+        "lat": 46.94480514526367,
+        "num": 1,
+        "y": 597595.1875,
+        "x": 199302.453125,
+        "label": "<b>Haltestelle Ausserholligen</b> (BE) - Bern"
+      }
+    },
+    {
+      "id": 125546,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "031202013222002211323",
+        "lon": 9.87292766571045,
+        "detail": "haltestelle davos - laret gr",
+        "rank": 5,
+        "geom_st_box2d": "BOX(785638.375 191437.09375,785638.4375 191437.109375)",
+        "lat": 46.84815216064453,
+        "num": 1,
+        "y": 785638.375,
+        "x": 191437.09375,
+        "label": "<b>Haltestelle Davos - Laret</b> (GR) - Davos"
+      }
+    },
+    {
+      "id": 142658,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "030100003001012110023",
+        "lon": 9.062021255493164,
+        "detail": "haltestelle oppikon tg",
+        "rank": 5,
+        "geom_st_box2d": "BOX(722190.4375 268094.125,722190.5 268094.15625)",
+        "lat": 47.55219268798828,
+        "num": 1,
+        "y": 722190.4375,
+        "x": 268094.15625,
+        "label": "<b>Haltestelle Oppikon</b> (TG) - Bussnang"
+      }
+    },
+    {
+      "id": 110496,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "021210313000233202322",
+        "lon": 7.218125820159912,
+        "detail": "haltestelle ferenbalm-gurbrue be",
+        "rank": 5,
+        "geom_st_box2d": "BOX(583214.75 200398.09375,583214.8125 200398.109375)",
+        "lat": 46.95444869995117,
+        "num": 1,
+        "y": 583214.8125,
+        "x": 200398.09375,
+        "label": "<b>Haltestelle Ferenbalm-Gurbr\u00fc</b> (BE) - Ferenbalm"
+      }
+    },
+    {
+      "id": 142989,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "030220123301012130023",
+        "lon": 8.362258911132812,
+        "detail": "murwetestock be",
+        "rank": 5,
+        "geom_st_box2d": "BOX(670628.25 173399.1875,670628.3125 173399.203125)",
+        "lat": 46.708065032958984,
+        "num": 1,
+        "y": 670628.3125,
+        "x": 173399.203125,
+        "label": "<b>Murwetestock</b> (BE) - Gadmen"
+      }
+    },
+    {
+      "id": 56140,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "021231333021203013200",
+        "lon": 7.41773796081543,
+        "detail": "haltestelle enge be",
+        "rank": 5,
+        "geom_st_box2d": "BOX(598400 166253.890625,598400 166253.90625)",
+        "lat": 46.64752197265625,
+        "num": 1,
+        "y": 598400.0,
+        "x": 166253.90625,
+        "label": "<b>Haltestelle Enge</b> (BE) - Oberwil im Simmental"
+      }
+    },
+    {
+      "id": 179182,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "030130031203123012333",
+        "lon": 9.499687194824219,
+        "detail": "rotestall sg",
+        "rank": 5,
+        "geom_st_box2d": "BOX(756016.5625 234982.96875,756016.625 234982.984375)",
+        "lat": 47.24732208251953,
+        "num": 1,
+        "y": 756016.5625,
+        "x": 234982.96875,
+        "label": "<b>Rotestall</b> (SG) - Sennwald"
+      }
+    },
+    {
+      "id": 11198,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "030032030112331023221",
+        "lon": 8.695646286010742,
+        "detail": "haltestelle altmatt sz",
+        "rank": 5,
+        "geom_st_box2d": "BOX(695365.875 220826.09375,695365.9375 220826.109375)",
+        "lat": 47.13154602050781,
+        "num": 1,
+        "y": 695365.875,
+        "x": 220826.09375,
+        "label": "<b>Haltestelle Altmatt</b> (SZ) - Rothenthurm"
+      }
+    },
+    {
+      "id": 101937,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "021300011232001131120",
+        "lon": 7.5195393562316895,
+        "detail": "haltestelle mattstetten be",
+        "rank": 5,
+        "geom_st_box2d": "BOX(606150.5625 208351,606150.625 208351)",
+        "lat": 47.02617263793945,
+        "num": 1,
+        "y": 606150.625,
+        "x": 208351.0,
+        "label": "<b>Haltestelle Mattstetten</b> (BE) - Mattstetten"
+      }
+    },
+    {
+      "id": 19912,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "021320330112211331213",
+        "lon": 7.605519771575928,
+        "detail": "haltestelle burgholz be",
+        "rank": 5,
+        "geom_st_box2d": "BOX(612771.375 168374,612771.4375 168374)",
+        "lat": 46.666473388671875,
+        "num": 1,
+        "y": 612771.375,
+        "x": 168374.0,
+        "label": "<b>Haltestelle Burgholz</b> (BE) - Diemtigen"
+      }
+    },
+    {
+      "id": 147909,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "021111323321320001333",
+        "lon": 8.176743507385254,
+        "detail": "laettestude ag",
+        "rank": 5,
+        "geom_st_box2d": "BOX(655671.1875 255289.625,655671.25 255289.640625)",
+        "lat": 47.446044921875,
+        "num": 1,
+        "y": 655671.1875,
+        "x": 255289.640625,
+        "label": "<b>L\u00e4ttestude</b> (AG) - Scherz"
+      }
+    },
+    {
+      "id": 153223,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "030221333131013121300",
+        "lon": 8.612532615661621,
+        "detail": "haltestelle naetschen ur",
+        "rank": 5,
+        "geom_st_box2d": "BOX(689874.0625 166367.6875,689874.125 166367.703125)",
+        "lat": 46.64250564575195,
+        "num": 1,
+        "y": 689874.125,
+        "x": 166367.703125,
+        "label": "<b>Haltestelle N\u00e4tschen</b> (UR) - Andermatt"
+      }
+    },
+    {
+      "id": 82036,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "021211312211323111213",
+        "lon": 7.4008941650390625,
+        "detail": "haltestelle stoeckacker be",
+        "rank": 5,
+        "geom_st_box2d": "BOX(597126.875 199479.71875,597126.9375 199479.734375)",
+        "lat": 46.94639587402344,
+        "num": 1,
+        "y": 597126.875,
+        "x": 199479.734375,
+        "label": "<b>Haltestelle St\u00f6ckacker</b> (BE) - Bern"
+      }
+    },
+    {
+      "id": 46232,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "021103100113012312321",
+        "lon": 7.759775161743164,
+        "detail": "haltestelle lampenberg-ramlinsburg bl",
+        "rank": 5,
+        "geom_st_box2d": "BOX(624224 254715,624224 254715)",
+        "lat": 47.44278335571289,
+        "num": 1,
+        "y": 624224.0,
+        "x": 254715.0,
+        "label": "<b>Haltestelle Lampenberg-Ramlinsburg</b> (BL) - Ramlinsburg"
+      }
+    },
+    {
+      "id": 61988,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "021313323221210012023",
+        "lon": 8.15449047088623,
+        "detail": "haltestelle kaeppeli ow",
+        "rank": 5,
+        "geom_st_box2d": "BOX(654676.0625 180346.09375,654676.125 180346.109375)",
+        "lat": 46.77204895019531,
+        "num": 1,
+        "y": 654676.125,
+        "x": 180346.09375,
+        "label": "<b>Haltestelle K\u00e4ppeli</b> (OW) - Lungern"
+      }
+    },
+    {
+      "id": 46296,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "021233323111320123320",
+        "lon": 7.38851261138916,
+        "detail": "haltestelle stoeckli be",
+        "rank": 5,
+        "geom_st_box2d": "BOX(596153.0625 151685.296875,596153.125 151685.3125)",
+        "lat": 46.51646041870117,
+        "num": 1,
+        "y": 596153.125,
+        "x": 151685.296875,
+        "label": "<b>Haltestelle St\u00f6ckli</b> (BE) - St. Stephan"
+      }
+    },
+    {
+      "id": 182244,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "030101010322223232101",
+        "lon": 9.294933319091797,
+        "detail": "sandbreitestrasse tg",
+        "rank": 5,
+        "geom_st_box2d": "BOX(739726.625 268128.625,739726.6875 268128.625)",
+        "lat": 47.54900360107422,
+        "num": 1,
+        "y": 739726.625,
+        "x": 268128.625,
+        "label": "<b>Sandbreitestrasse</b> (TG) - Amriswil"
+      }
+    },
+    {
+      "id": 203891,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "012223000201113020021",
+        "lon": 8.443706512451172,
+        "detail": "rattestich sh",
+        "rank": 5,
+        "geom_st_box2d": "BOX(675440.1875 284024.78125,675440.25 284024.8125)",
+        "lat": 47.70248794555664,
+        "num": 1,
+        "y": 675440.25,
+        "x": 284024.8125,
+        "label": "<b>Rattestich</b> (SH) - Hallau"
+      }
+    },
+    {
+      "id": 66788,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "021320231302222102232",
+        "lon": 7.5245795249938965,
+        "detail": "haltestelle ringoldingen be",
+        "rank": 5,
+        "geom_st_box2d": "BOX(606578.1875 167366.09375,606578.25 167366.109375)",
+        "lat": 46.65749740600586,
+        "num": 1,
+        "y": 606578.1875,
+        "x": 167366.09375,
+        "label": "<b>Haltestelle Ringoldingen</b> (BE) - Erlenbach im Simmental"
+      }
+    },
+    {
+      "id": 12148,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "021311300331020232030",
+        "lon": 8.150041580200195,
+        "detail": "risetestock lu",
+        "rank": 5,
+        "geom_st_box2d": "BOX(654149.0625 201008.40625,654149.125 201008.421875)",
+        "lat": 46.957950592041016,
+        "num": 1,
+        "y": 654149.0625,
+        "x": 201008.421875,
+        "label": "<b>Risetestock</b> (LU) - Entlebuch"
+      }
+    },
+    {
+      "id": 151388,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "021032213120333111032",
+        "lon": 7.133035659790039,
+        "detail": "haltestelle pilgerweg be",
+        "rank": 5,
+        "geom_st_box2d": "BOX(576794.4375 214949.46875,576794.5 214949.484375)",
+        "lat": 47.08514404296875,
+        "num": 1,
+        "y": 576794.5,
+        "x": 214949.46875,
+        "label": "<b>Haltestelle Pilgerweg</b> (BE) - Ligerz"
+      }
+    },
+    {
+      "id": 76072,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "023011113330311031313",
+        "lon": 7.435397624969482,
+        "detail": "haltestelle boden be",
+        "rank": 5,
+        "geom_st_box2d": "BOX(599750.875 146591.890625,599750.9375 146591.90625)",
+        "lat": 46.47065353393555,
+        "num": 1,
+        "y": 599750.875,
+        "x": 146591.90625,
+        "label": "<b>Haltestelle Boden</b> (BE) - Lenk"
+      }
+    },
+    {
+      "id": 12964,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "030002122132030322010",
+        "lon": 8.352157592773438,
+        "detail": "rotestei ag",
+        "rank": 5,
+        "geom_st_box2d": "BOX(668980.5625 248587.390625,668980.625 248587.40625)",
+        "lat": 47.38450622558594,
+        "num": 1,
+        "y": 668980.625,
+        "x": 248587.40625,
+        "label": "<b>Rotestei</b> (AG) - Bellikon"
+      }
+    },
+    {
+      "id": 403,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "030200312321212012031",
+        "lon": 8.390664100646973,
+        "detail": "haltestelle bueren nw",
+        "rank": 5,
+        "geom_st_box2d": "BOX(672489.1875 199067.5,672489.25 199067.5)",
+        "lat": 46.938743591308594,
+        "num": 1,
+        "y": 672489.1875,
+        "x": 199067.5,
+        "label": "<b>Haltestelle B\u00fcren</b> (NW) - Oberdorf (NW)"
+      }
+    },
+    {
+      "id": 101077,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "021233102133222332012",
+        "lon": 7.36245584487915,
+        "detail": "blattestett be",
+        "rank": 5,
+        "geom_st_box2d": "BOX(594163.75 162190.390625,594163.8125 162190.40625)",
+        "lat": 46.61094284057617,
+        "num": 1,
+        "y": 594163.8125,
+        "x": 162190.40625,
+        "label": "<b>Blattestett</b> (BE) - Boltigen"
+      }
+    },
+    {
+      "id": 198301,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "030101210310012201321",
+        "lon": 9.299416542053223,
+        "detail": "huettestroeoessli tg",
+        "rank": 5,
+        "geom_st_box2d": "BOX(740221.125 261515.71875,740221.1875 261515.734375)",
+        "lat": 47.48944091796875,
+        "num": 1,
+        "y": 740221.125,
+        "x": 261515.71875,
+        "label": "<b>H\u00fcttestr\u00f6\u00f6ssli</b> (TG) - Hauptwil-Gottshaus"
+      }
+    },
+    {
+      "id": 146816,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "021331012122013332001",
+        "lon": 8.090303421020508,
+        "detail": "haltestelle brienzwiler be",
+        "rank": 5,
+        "geom_st_box2d": "BOX(649798.0625 177366.796875,649798.125 177366.8125)",
+        "lat": 46.74563217163086,
+        "num": 1,
+        "y": 649798.125,
+        "x": 177366.796875,
+        "label": "<b>Haltestelle Brienzwiler</b> (BE) - Brienzwiler"
+      }
+    },
+    {
+      "id": 130521,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "021321232000030012022",
+        "lon": 7.684440612792969,
+        "detail": "haltestelle heustrich-emdthal be",
+        "rank": 5,
+        "geom_st_box2d": "BOX(618816.0625 166811,618816.125 166811)",
+        "lat": 46.65227127075195,
+        "num": 1,
+        "y": 618816.125,
+        "x": 166811.0,
+        "label": "<b>Haltestelle Heustrich-Emdthal</b> (BE) - Aeschi bei Spiez"
+      }
+    },
+    {
+      "id": 124907,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "032000103131000300201",
+        "lon": 8.363553047180176,
+        "detail": "bochtestafel vs",
+        "rank": 5,
+        "geom_st_box2d": "BOX(671030.75 147639.59375,671030.8125 147639.609375)",
+        "lat": 46.476314544677734,
+        "num": 1,
+        "y": 671030.8125,
+        "x": 147639.59375,
+        "label": "<b>Bochtestafel</b> (VS) - Ulrichen"
+      }
+    },
+    {
+      "id": 95874,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "021231133322210033111",
+        "lon": 7.427332401275635,
+        "detail": "breitestuel be",
+        "rank": 5,
+        "geom_st_box2d": "BOX(599135.5 172606.09375,599135.5 172606.109375)",
+        "lat": 46.70466613769531,
+        "num": 1,
+        "y": 599135.5,
+        "x": 172606.09375,
+        "label": "<b>Breitestuel</b> (BE) - R\u00fcschegg"
+      }
+    },
+    {
+      "id": 134229,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "030331112323001002102",
+        "lon": 9.759859085083008,
+        "detail": "haltestelle davos monstein gr",
+        "rank": 5,
+        "geom_st_box2d": "BOX(777453.375 176479.890625,777453.4375 176479.90625)",
+        "lat": 46.71590042114258,
+        "num": 1,
+        "y": 777453.375,
+        "x": 176479.90625,
+        "label": "<b>Haltestelle Davos Monstein</b> (GR) - Davos"
+      }
+    },
+    {
+      "id": 159314,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "030100112100022113212",
+        "lon": 9.1951322555542,
+        "detail": "rootestuude tg",
+        "rank": 5,
+        "geom_st_box2d": "BOX(732214.0625 268031.0625,732214.125 268031.09375)",
+        "lat": 47.5496826171875,
+        "num": 1,
+        "y": 732214.125,
+        "x": 268031.0625,
+        "label": "<b>Rootestuude</b> (TG) - Sulgen"
+      }
+    },
+    {
+      "id": 93120,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "021330111303321212011",
+        "lon": 8.020471572875977,
+        "detail": "haltestelle brienz west be",
+        "rank": 5,
+        "geom_st_box2d": "BOX(644452.1875 178633.671875,644452.25 178633.6875)",
+        "lat": 46.757408142089844,
+        "num": 1,
+        "y": 644452.1875,
+        "x": 178633.6875,
+        "label": "<b>Haltestelle Brienz West</b> (BE) - Brienz (BE)"
+      }
+    },
+    {
+      "id": 79290,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "012322021102030131333",
+        "lon": 9.07501220703125,
+        "detail": "breitestei tg",
+        "rank": 5,
+        "geom_st_box2d": "BOX(722900.375 280946.375,722900.4375 280946.40625)",
+        "lat": 47.66762161254883,
+        "num": 1,
+        "y": 722900.375,
+        "x": 280946.40625,
+        "label": "<b>Breitestei</b> (TG) - Ermatingen"
+      }
+    },
+    {
+      "id": 128661,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "021312301222002211223",
+        "lon": 7.954790115356445,
+        "detail": "mattestall lu",
+        "rank": 5,
+        "geom_st_box2d": "BOX(639386.75 185812,639386.8125 185812)",
+        "lat": 46.822296142578125,
+        "num": 1,
+        "y": 639386.8125,
+        "x": 185812.0,
+        "label": "<b>Mattestall</b> (LU) - Fl\u00fchli"
+      }
+    },
+    {
+      "id": 19001,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "021320301321323123221",
+        "lon": 7.578674793243408,
+        "detail": "mattestand be",
+        "rank": 5,
+        "geom_st_box2d": "BOX(610712.5 170874.875,610712.5625 170874.890625)",
+        "lat": 46.68900680541992,
+        "num": 1,
+        "y": 610712.5625,
+        "x": 170874.890625,
+        "label": "<b>Mattestand</b> (BE) - Reutigen"
+      }
+    },
+    {
+      "id": 138556,
+      "weight": 2,
+      "attrs": {
+        "origin": "sn25",
+        "geom_quadindex": "032000103310230010121",
+        "lon": 8.361101150512695,
+        "detail": "tueechmattestafel vs",
+        "rank": 5,
+        "geom_st_box2d": "BOX(670849.875 147010.5,670849.9375 147010.5)",
+        "lat": 46.47067642211914,
+        "num": 1,
+        "y": 670849.875,
+        "x": 147010.5,
+        "label": "<b>T\u00fcechmattestafel</b> (VS) - Ulrichen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "results": [
+    {
+      "id": 193,
+      "weight": 13,
+      "attrs": {
+        "origin": "layer",
+        "lang": "en",
+        "layer": "ch.bfe.energieforschung",
+        "staging": "prod",
+        "topics": "api,ech,inspire,wms-bgdi_prod",
+        "detail": "energy research: pilot and demonstration projects | in 1984, the federal council entrusted the swiss federal office of energy _sfoe_ with the systematic planning, coordination, support and international integration of energy research, including energy-related pilot and demonstration projects. pilot and demonstration projects form an essential link between the laboratory and the market. they are used for testing and demonstrating researched technologies on a scale that permits an assessment of their cost-effectiveness, applicability and technical feasibility. this dataset contains selected energy-related pilot and demonstration projects that are supported by the sfoe. |  | swisstopo | bundesamt fuer landestopografie swisstopo | swiss federal office of energy | swisstopo | energy research",
+        "label": "<b>Energy research</b>",
+        "id": 193
+      }
+    },
+    {
+      "id": 212,
+      "weight": 13,
+      "attrs": {
+        "origin": "layer",
+        "lang": "en",
+        "layer": "ch.swisstopo.koordinatenaenderung",
+        "staging": "prod",
+        "topics": "api,ech,inspire,swisstopo,wms-bgdi_prod",
+        "detail": "transition of reference frames lv03 - lv95: coordinate changes lv03->lv95 | the coordinate changes between the old frame of reference lv03 and the new one lv95, respectively the deformations from mn03, are represented in relation to zimmerwald _be_: the greatest coordinate change of about 1.5 m appear in the south ticino and in poschiavo valley _gr_. the smallest differences are around bern, given that both lv03 and lv95 reference frame have their origin in the old observatory of bern. the differences in false easting and northing _lv03: 600,00 / 200,000 and lv95: 2,600,000 / 1,200,000_ have been eliminated for the graphical representation. |  | swisstopo | bundesamt fuer landestopografie swisstopo | federal office of topography swisstopo | swisstopo | lv95 coordinate changes",
+        "label": "<b>LV95 Coordinate changes</b>",
+        "id": 212
+      }
+    },
+    {
+      "id": 323,
+      "weight": 13,
+      "attrs": {
+        "origin": "layer",
+        "lang": "en",
+        "layer": "ch.bafu.fischerei-krebspest",
+        "staging": "prod",
+        "topics": "bafu,ech",
+        "detail": "crayfish plague \u2013 findings in switzerland | proof of the crayfish plague in switzerland: geo-referenced locations of populations with test results. the most cataclysmic disease for the european species is the crayfish plague _cause: aphanomyces astaci; oamycetes_. this fungis was brought over from the americas to europe in 1880 and destroyed the majority of native european crayfish stocks since the european crayfish species die from it. however, the american species can carry the fungus and infect populations of local species by excreting spores into the water. this disease emerges irregularly every once in awhile in switzerland. |  |  |  | federal office for the environment foen |  | crayfish plague",
+        "label": "<b>Crayfish plague</b>",
+        "id": 323
+      }
+    },
+    {
+      "id": 344,
+      "weight": 13,
+      "attrs": {
+        "origin": "layer",
+        "lang": "en",
+        "layer": "ch.swisstopo.geologie-eiszeit-lgm-raster",
+        "staging": "prod",
+        "topics": "api,ech,geol,inspire,swissmaponline,swisstopo,wms-bgdi_prod",
+        "detail": "switzerland during the last glacial maximum _lgm_ 1:500000 | the map _gk500-lgm_ shows the maximum extent of glaciation in switzerland at the height of the last ice age around 24,000 years ago. it presents the latest results of current research on the ice age in the form of a high-quality map. the build-up and retreat of glaciers are indications of significant climate-related environmental changes during the relatively recent history of the earth. by a. bini, j.-f. buoncristiani, s. couterrand, d. ellwanger, m. felber, d. florineth, h. r. graf, o. keller, m. kelly, c. schluechter & p. schoeneich, 2009. | die schweiz waehrend des letzteiszeitlichen maximums _lgm_ 1:500000 | swisstopo | bundesamt fuer landestopografie swisstopo | federal office of topography swisstopo | swisstopo | last glacial maximum 500",
+        "label": "<b>Last glacial maximum 500</b>",
+        "id": 344
+      }
+    }
+  ]
+}

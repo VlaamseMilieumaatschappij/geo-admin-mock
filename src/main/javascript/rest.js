@@ -14,6 +14,8 @@ var server = restify.createServer({
 
 // allow cross-domain access
 server.use(restify.CORS());
+// parse URL parameters
+server.use(restify.queryParser());
 
 
 /* ----------------- */
