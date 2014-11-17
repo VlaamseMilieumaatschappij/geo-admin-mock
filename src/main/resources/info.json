@@ -1,12 +1,12 @@
 {
   "topics": [
     {
-      "langs": "de,fr,it,rm,en",
+      "langs": "nl,en",
       "selectedLayers": [],
       "backgroundLayers": [
-        "ch.swisstopo.pixelkarte-farbe",
-        "ch.swisstopo.pixelkarte-grau",
-        "ch.swisstopo.swissimage"
+        "be.agiv.color",
+        "be.agiv.grey",
+        "be.agiv.sat"
       ],
       "id": "ech",
       "showCatalog": true
