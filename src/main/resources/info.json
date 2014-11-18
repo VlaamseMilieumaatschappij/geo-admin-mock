@@ -6,7 +6,7 @@
         "be.vmm.rioolappurtenance",
         "be.vmm.rioollink",
         "be.vmm.koppelpunt",
-        "be.waterinfo.waterlopen"
+        "be.vmm.waterlopen"
       ],
       "backgroundLayers": [
         "be.agiv.color",

@@ -107,9 +107,9 @@
     "type": "wms",
     "wmsUrl": "http://o-geoserver.vmm.be/geoserver/eENVplus/wms?layers=eENVplus:koppelpunt"
   },
-  "be.waterinfo.waterlopen": {
-    "attribution": "waterinfo",
-    "attributionUrl": "http://www.waterinfo.be",
+  "be.vmm.waterlopen": {
+    "attribution": "vmm",
+    "attributionUrl": "http://www.vmm.be",
     "background": false,
     "chargeable": true,
     "hasLegend": false,
@@ -120,10 +120,10 @@
     "queryable": false,
     "searchable": false,
     "selectbyrectangle": false,
-    "serverLayerName": "show:0",
+    "serverLayerName": "vmm:vha_segment",
     "timeBehaviour": "last",
     "timeEnabled": false,
     "type": "wms",
-    "wmsUrl": "http://inspirepub.waterinfo.be/arcgis/rest/services/basisdata/MapServer/export?layers=show:0&f=image&transparent=true"
+    "wmsUrl": "http://o-geoserver.vmm.be/geoserver/vmm/wms?layers=vmm:vha_segment&styles=line"
   }
 }

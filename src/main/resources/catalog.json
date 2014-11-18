@@ -30,7 +30,7 @@
           "category": "layer",
           "staging": "prod",
           "label": "Hydrographic network",
-          "layerBodId": "be.waterinfo.waterlopen",
+          "layerBodId": "be.vmm.waterlopen",
           "id": 1386
         }
       ],
