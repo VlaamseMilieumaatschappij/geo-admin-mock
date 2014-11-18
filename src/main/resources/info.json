@@ -2,7 +2,12 @@
   "topics": [
     {
       "langs": "nl,en",
-      "selectedLayers": [],
+      "selectedLayers": [
+        "be.vmm.rioolappurtenance",
+        "be.vmm.rioollink",
+        "be.vmm.koppelpunt",
+        "be.waterinfo.waterlopen"
+      ],
       "backgroundLayers": [
         "be.agiv.color",
         "be.agiv.grey",
