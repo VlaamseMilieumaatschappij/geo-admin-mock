@@ -2,7 +2,8 @@ var restify = require('restify'),
     mainService = require('./vmm/geoAdmin/mock/MainService'),
     mapService = require('./vmm/geoAdmin/mock/MapService'),
     searchService = require('./vmm/geoAdmin/mock/SearchService'),
-    catalogService = require('./vmm/geoAdmin/mock/CatalogService');
+    catalogService = require('./vmm/geoAdmin/mock/CatalogService'),
+    printService = require('./vmm/geoAdmin/mock/PrintService');
 
 /* --------------------- */
 /* --- server config --- */
@@ -52,6 +53,8 @@ server.get('rest/services/ech/SearchServer', searchService.search);
 /** @see CatalogService.all */
 server.get('rest/services/ech/CatalogServer', catalogService.all);
 
+/** @see PrintService.all */
+server.get('print/info.json', printService.info);
 
 /* ---------------------- */
 /* --- initialization --- */
