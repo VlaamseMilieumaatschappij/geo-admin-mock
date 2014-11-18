@@ -63,11 +63,11 @@
     "queryable": false,
     "searchable": false,
     "selectbyrectangle": false,
-    "serverLayerName": "eENVplus:rioolappurtenance",
+    "serverLayerName": "eENVplus:v_appurtenance",
     "timeBehaviour": "last",
     "timeEnabled": false,
     "type": "wms",
-    "wmsUrl": "http://o-geoserver.vmm.be/geoserver/eENVplus/wms?layers=eENVplus:rioolappurtenance"
+    "wmsUrl": "http://o-geoserver.vmm.be/geoserver/eENVplus/wms?layers=eENVplus:v_appurtenance"
   },
   "be.vmm.rioollink": {
     "attribution": "vmm",
@@ -82,11 +82,11 @@
     "queryable": false,
     "searchable": false,
     "selectbyrectangle": false,
-    "serverLayerName": "eENVplus:rioollink",
+    "serverLayerName": "eENVplus:v_rioollink",
     "timeBehaviour": "last",
     "timeEnabled": false,
     "type": "wms",
-    "wmsUrl": "http://o-geoserver.vmm.be/geoserver/eENVplus/wms?layers=eENVplus:rioollink"
+    "wmsUrl": "http://o-geoserver.vmm.be/geoserver/eENVplus/wms?layers=eENVplus:v_rioollink"
   },
   "be.vmm.koppelpunt": {
     "attribution": "vmm",
