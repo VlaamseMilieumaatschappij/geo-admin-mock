@@ -3,9 +3,9 @@
     {
       "langs": "nl,en",
       "selectedLayers": [
-        "be.vmm.rioolappurtenance",
-        "be.vmm.rioollink",
-        "be.vmm.koppelpunt",
+        "be.vmm.eenvplus.sdi.model.RioolAppurtenance",
+        "be.vmm.eenvplus.sdi.model.RioolLink",
+        "be.vmm.eenvplus.sdi.model.KoppelPunt",
         "be.vmm.waterlopen"
       ],
       "backgroundLayers": [

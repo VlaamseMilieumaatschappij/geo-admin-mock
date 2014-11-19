@@ -50,7 +50,7 @@
     "timeEnabled": false,
     "type": "wmts"
   },
-  "be.vmm.rioolappurtenance": {
+  "be.vmm.eenvplus.sdi.model.RioolAppurtenance": {
     "attribution": "vmm",
     "attributionUrl": "http://www.vmm.be",
     "background": false,
@@ -69,7 +69,7 @@
     "type": "wms",
     "wmsUrl": "http://o-geoserver.vmm.be/geoserver/eENVplus/wms?layers=eENVplus:v_appurtenance"
   },
-  "be.vmm.rioollink": {
+  "be.vmm.eenvplus.sdi.model.RioolLink": {
     "attribution": "vmm",
     "attributionUrl": "http://www.vmm.be",
     "background": false,
@@ -88,7 +88,7 @@
     "type": "wms",
     "wmsUrl": "http://o-geoserver.vmm.be/geoserver/eENVplus/wms?layers=eENVplus:v_rioollink"
   },
-  "be.vmm.koppelpunt": {
+  "be.vmm.eenvplus.sdi.model.KoppelPunt": {
     "attribution": "vmm",
     "attributionUrl": "http://www.vmm.be",
     "background": false,
